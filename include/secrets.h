@@ -1,3 +1,3 @@
-const char* ssid = "";
-const char* wiFiPassword = "";
-const char* api = "";
+const char* ssid = "yourssid";
+const char* wiFiPassword = "yourpassword";
+const char* api = "yourapikey";
